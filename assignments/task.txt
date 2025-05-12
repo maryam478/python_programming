@@ -1,0 +1,5 @@
+1-eat--DONE
+1-drink--DONE
+3-chaat--DONE
+5-sing--DONE
+6-walk--DONE

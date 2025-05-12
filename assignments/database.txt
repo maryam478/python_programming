@@ -1,0 +1,4 @@
+sameeha,7878876,cat@gmail.com,company,
+huda,099989,jppppp@gmail.com,Home,
+omar,444444,dog@gmail.com,company,
+hamxza,123456,abc@gmail.com,Home,
